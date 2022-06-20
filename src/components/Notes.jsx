@@ -2,7 +2,7 @@ import React from "react";
 
 function Notes() {
   return (
-    <div>
+    <div className="note">
       <h1>for notes</h1>
       <p>for notes</p>
     </div>
